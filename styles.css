@@ -1,0 +1,170 @@
+html {
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+
+.container-1 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 30px;
+} 
+
+.logo {
+    height: 10px;
+    width:40px;
+    margin-top: 17px;
+    background-color: papayawhip;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+ul li {
+    display: inline;
+    height: 30px;
+    line-height: 42px;
+    padding-right: 20px;
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(75, 181, 216);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+li a:hover {
+    color:lightcoral;
+    text-decoration: underline;
+}
+
+.colors-1 {
+    height: 72px;
+    width: auto;
+    background-color: papayawhip;
+    margin: 20px 50px;
+}
+
+.colors-2 {
+    height: 72px;
+    width: auto;
+    background-color: lightblue;
+    margin: 20px 50px;
+}
+
+.colors-3 {
+    height: 72px;
+    width: auto;
+    background-color: lightcoral;
+    margin: 20px 50px;
+}
+
+h5 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.3rem;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+h4 {
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px ;
+    line-height: 20px;
+}
+
+.roboto h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mukta {
+    font-family: 'Mukta', sans-serif;
+}
+
+strong {
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 20px 50px;
+}
+
+em {
+    font-style: italic;
+}
+
+.text-styles-sub {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid 5px;
+    border-color: papayawhip;
+}
+
+footer {
+    height: 50px;
+    width: 100%;
+}
+
+h5 {
+    font-family: 'Mukta', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.button-div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    height: 60px;
+    width: 300px;
+    background-color: lightblue;
+    border-radius: 10px;
+    border: solid 3px;
+    border-color: lightblue;
+}
+
+button:hover {
+    background-color: lightcoral;
+    border-radius: 10px;
+    border: solid 3px;
+    border-color: lightcoral;
+    cursor: pointer;
+}
+
+button a {
+    color: papayawhip;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+button a:hover {
+    text-decoration: underline;
+}
+
+
+
+
